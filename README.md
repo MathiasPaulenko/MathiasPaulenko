@@ -132,6 +132,8 @@ I am a **remote work enthusiast** who frequently moves between **Spain** and **C
 - 💼 [LinkedIn](https://cn.linkedin.com/in/mathias-paulenko-echeverz)
 - 💻 [GitHub](https://github.com/MathiasPaulenko)
 - 📧 [Email](mailto:mathias.paulenko@gmail.com)
+- 📨 [Outlook](mailto:mathias.paulenko@outlook.com)
+- 🌐 [Website](https://mathiaspaulenko.com)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=100&section=footer" />

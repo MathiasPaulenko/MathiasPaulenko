@@ -121,9 +121,9 @@ I am a **remote work enthusiast** who frequently moves between **Spain** and **C
 
 ## Languages
 
-- 🇪🇸 Spanish - Native
-- 🇬🇧 English - B2
-- 🇨🇳 Chinese - A2 (Self-taught)
+- `ES` Spanish — Native
+- `EN` English — B2
+- `ZH` Chinese — A2 (Self-taught)
 
 ---
 
